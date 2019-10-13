@@ -1,0 +1,22 @@
+{
+  "name": "airbase",
+  "version": "1.0.0",
+  "description": "Owned + Maintained by Ryan Wans",
+  "main": "blob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanrocket/airbase.git"
+  },
+  "author": "ryan wans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanrocket/airbase/issues"
+  },
+  "homepage": "https://github.com/ryanrocket/airbase#readme",
+  "dependencies": {
+    "onoff": "^5.0.0"
+  }
+}
